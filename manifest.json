@@ -5,6 +5,9 @@
   "author": "kynetiv",
   "description": "Guards browser from navigation / refresh of the currently inspected page. Activate by visiting devtools 'Refresh Guard' panel tab.",
   "devtools_page": "devtoolsRefreshGuard.html",
+  "permissions": [
+    "activeTab"
+  ],
   "icons": {
     "16": "refresh-guard16.png",
     "32": "refresh-guard32.png",
