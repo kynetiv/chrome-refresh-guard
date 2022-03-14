@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "author": "kynetiv",
-  "description": "Guards browser from unintentional navigationg / refresh by presenting a browser dialog prompt before navigating or reloading the currently inspected page. Activate by visiting the devtools 'Refresh Guard' panel tab",
+  "description": "Guards browser from navigation / refresh of the currently inspected page. Activate by visiting devtools 'Refresh Guard' panel tab.",
   "devtools_page": "devtoolsRefreshGuard.html",
   "icons": {
     "16": "refresh-guard16.png",
